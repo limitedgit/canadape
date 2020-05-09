@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Canada PE LTD
+title: Canada PE Ltd.
 email: canadape@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Founded in 2006, Canada PE Ltd. provides petroleum engineering services and supplies for the oil & gas drilling industry.
